@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerftringify",
+        "uuid": 25307478,
+        "checksum": "xtqauyi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
